@@ -1,0 +1,24 @@
+header{
+    color: #26a0da;
+    padding: 18px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+}
+
+.link {
+    color: #cbd9df;
+    background-color: #314755;
+    padding: 20px 60px;
+    text-decoration: none;
+    border-radius: 0px 0px 10px 10px;
+    margin-left: 20px;
+}
+
+.link:hover {
+    background-color: #c1dae6;
+    color: black;
+}
+.link:active  {
+    background-color: rgb(37, 56, 56);
+}

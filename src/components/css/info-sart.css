@@ -1,0 +1,12 @@
+.textbox {
+    background-color: rgba(210, 205, 223, 0.438);
+    height: 100%;
+    width: 800px;
+    margin: 0px auto;
+    padding: 20px;
+    border-radius: 16px;
+}
+
+p, h1, h2 {
+    color: rgb(255, 255, 255);
+}

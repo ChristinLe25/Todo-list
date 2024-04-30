@@ -1,0 +1,45 @@
+.todo-card {
+    
+    background-color: #314755;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px auto;
+    
+  
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+
+    
+}
+
+.checkbox {
+    
+    cursor: pointer;
+    height: 30px;
+    width: 30px; 
+}
+
+.btn-delet-todo {
+    
+    cursor: pointer;
+    width: 80px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    background-color: #26a0da;
+    border: none;
+    border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+
+}
+.btn-delet-todo:hover {
+    background-color: rgb(146, 146, 226);
+}
+.btn-delet-todo:active  {
+    background-color: rgb(37, 56, 56);
+}
+ul{
+    list-style-type: none;
+    
+}

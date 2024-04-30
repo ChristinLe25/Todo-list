@@ -1,0 +1,61 @@
+.todo-bacrund {
+    background-color: rgba(210, 205, 223, 0.438);
+    height: 100%;
+    width: 800px;
+    margin: 0px auto;
+    padding: 20px;
+    border-radius: 16px;
+}
+
+
+.explaning-text{
+    
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    
+    font-size: 24px;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.input-todos {
+    
+    width: 80%;
+  height: 40px;
+  margin: 10px 40px 40PX;
+  padding: 0px 10px;
+  border: none;
+  border-radius: 10px;
+  
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+
+}
+.btn-add{
+    cursor: pointer;
+    width: 88px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    background-color: #26a0da;
+    border: none;
+    border-radius: 10px;
+    margin: 0px 0px 30PX;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+
+}
+
+.btn-add:hover {
+    background-color: rgb(146, 146, 226);
+}
+.btn-add:active  {
+    background-color: rgb(37, 56, 56);
+}
+
+li {
+color: rgb(255, 255, 255);
+
+}
+
